@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c490d85.chunk.css",
-    "main.js": "/static/js/main.f4eb67d4.chunk.js",
-    "main.js.map": "/static/js/main.f4eb67d4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dd775e8f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dd775e8f.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.14471f1f.chunk.js": "/static/js/2.14471f1f.chunk.js",
-    "static/js/2.14471f1f.chunk.js.map": "/static/js/2.14471f1f.chunk.js.map",
-    "static/js/3.eaba755e.chunk.js": "/static/js/3.eaba755e.chunk.js",
-    "static/js/3.eaba755e.chunk.js.map": "/static/js/3.eaba755e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.8c490d85.chunk.css.map": "/static/css/main.8c490d85.chunk.css.map",
-    "static/js/2.14471f1f.chunk.js.LICENSE.txt": "/static/js/2.14471f1f.chunk.js.LICENSE.txt"
+    "main.css": "/S_Coin/static/css/main.8c490d85.chunk.css",
+    "main.js": "/S_Coin/static/js/main.37886d39.chunk.js",
+    "main.js.map": "/S_Coin/static/js/main.37886d39.chunk.js.map",
+    "runtime-main.js": "/S_Coin/static/js/runtime-main.a7df9e02.js",
+    "runtime-main.js.map": "/S_Coin/static/js/runtime-main.a7df9e02.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/S_Coin/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.0639fe82.chunk.js": "/S_Coin/static/js/2.0639fe82.chunk.js",
+    "static/js/2.0639fe82.chunk.js.map": "/S_Coin/static/js/2.0639fe82.chunk.js.map",
+    "static/js/3.eaba755e.chunk.js": "/S_Coin/static/js/3.eaba755e.chunk.js",
+    "static/js/3.eaba755e.chunk.js.map": "/S_Coin/static/js/3.eaba755e.chunk.js.map",
+    "index.html": "/S_Coin/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/S_Coin/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.8c490d85.chunk.css.map": "/S_Coin/static/css/main.8c490d85.chunk.css.map",
+    "static/js/2.0639fe82.chunk.js.LICENSE.txt": "/S_Coin/static/js/2.0639fe82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd775e8f.js",
+    "static/js/runtime-main.a7df9e02.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.14471f1f.chunk.js",
+    "static/js/2.0639fe82.chunk.js",
     "static/css/main.8c490d85.chunk.css",
-    "static/js/main.f4eb67d4.chunk.js"
+    "static/js/main.37886d39.chunk.js"
   ]
 }
