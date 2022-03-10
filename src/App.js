@@ -37,22 +37,33 @@ class App extends React.Component {
     }
 
     async function loginMetaMask() {
-      if (checkMM()) {
-        const accounts = await window.ethereum.request({ method: 'eth_requestAccounts' });
-        return accounts;
-      } else {
+      try {
+        if (checkMM()) {
+          const accounts = await window.ethereum.request({ method: 'eth_requestAccounts' });
+          return accounts;
+        } else {
+          return null;
+        }
+
+      } catch (err) {
+        console.log(err);
         return null;
       }
     }
 
     const connectMetamask = () => {
-      loginMetaMask().then((data) => {
-        //console.log(data);
-        this.setState({ MetaMaskAddress: data[0] });
-      }).catch((err) => {
-        this.setState({ MetaMaskAddress: '' });
-        alert("MetaMask already processing. Please check Metamask.");
-      });
+      try {
+        loginMetaMask().then((data) => {
+          //console.log(data);
+          this.setState({ MetaMaskAddress: data[0] });
+        }).catch((err) => {
+          this.setState({ MetaMaskAddress: '' });
+          alert("MetaMask already processing. Please check Metamask.");
+        });
+
+      } catch (err) {
+        console.log(err);
+      }
     }
 
     window.ethereum.on("accountsChanged", (data) => {
