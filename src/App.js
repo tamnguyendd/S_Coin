@@ -75,12 +75,12 @@ class App extends React.Component {
       <>
         <Container className='containter'>
 
-          <Router>
+          <Router basename='/S_Coin/'>
             <Card className="text-center">
               <Card.Header className='app-header'>
                 <Navbar bg="dark" variant="dark">
                   <Container>
-                    <Navbar.Brand href="/home">S-Coin</Navbar.Brand>
+                    <Navbar.Brand  as={Link} to="/home">S-Coin</Navbar.Brand>
                     <Nav className="me-auto">
                       <Nav.Link as={Link} to="/home">Home</Nav.Link>
                       {/* <Nav.Link as={Link} to="/layout2">Features</Nav.Link>
