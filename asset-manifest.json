@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/S_Coin/static/css/main.c288e739.chunk.css",
-    "main.js": "/S_Coin/static/js/main.1d5e5aaf.chunk.js",
-    "main.js.map": "/S_Coin/static/js/main.1d5e5aaf.chunk.js.map",
+    "main.js": "/S_Coin/static/js/main.57eefef0.chunk.js",
+    "main.js.map": "/S_Coin/static/js/main.57eefef0.chunk.js.map",
     "runtime-main.js": "/S_Coin/static/js/runtime-main.a7df9e02.js",
     "runtime-main.js.map": "/S_Coin/static/js/runtime-main.a7df9e02.js.map",
     "static/css/2.0a9ec390.chunk.css": "/S_Coin/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.e1ab5359.chunk.js": "/S_Coin/static/js/2.e1ab5359.chunk.js",
-    "static/js/2.e1ab5359.chunk.js.map": "/S_Coin/static/js/2.e1ab5359.chunk.js.map",
+    "static/js/2.94ba4fb1.chunk.js": "/S_Coin/static/js/2.94ba4fb1.chunk.js",
+    "static/js/2.94ba4fb1.chunk.js.map": "/S_Coin/static/js/2.94ba4fb1.chunk.js.map",
     "static/js/3.eaba755e.chunk.js": "/S_Coin/static/js/3.eaba755e.chunk.js",
     "static/js/3.eaba755e.chunk.js.map": "/S_Coin/static/js/3.eaba755e.chunk.js.map",
     "index.html": "/S_Coin/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/S_Coin/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.c288e739.chunk.css.map": "/S_Coin/static/css/main.c288e739.chunk.css.map",
-    "static/js/2.e1ab5359.chunk.js.LICENSE.txt": "/S_Coin/static/js/2.e1ab5359.chunk.js.LICENSE.txt"
+    "static/js/2.94ba4fb1.chunk.js.LICENSE.txt": "/S_Coin/static/js/2.94ba4fb1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a7df9e02.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.e1ab5359.chunk.js",
+    "static/js/2.94ba4fb1.chunk.js",
     "static/css/main.c288e739.chunk.css",
-    "static/js/main.1d5e5aaf.chunk.js"
+    "static/js/main.57eefef0.chunk.js"
   ]
 }
